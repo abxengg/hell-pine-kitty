@@ -2,7 +2,9 @@
 
 A darker, higher-contrast take on Rosé Pine, born inside tmux, for kitty.
 
-![Hell Pine in Neovim, the terminal and tmux](https://raw.githubusercontent.com/abxengg/hell-pine.nvim/main/assets/hero.png)
+![A Lua file shown by bat in Hell Pine](preview.png)
+
+Real terminal output, drawn with the colours in this theme file.
 
 ## Install
 
